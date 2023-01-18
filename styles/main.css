@@ -1,0 +1,82 @@
+
+
+ .octocat img[src="https://octodex.github.com/images/saritocat.png"]  {
+    display: inline-block;
+    position: relative; 
+    border: solid rgb(123, 117, 117) 1px;
+    width: 400px;
+    height: 400px;
+    padding-left: 0rem;
+
+}
+
+.li img[src="https://github.com/JohnCreek.png"] {
+    position: relative;
+    text-underline-position: below solid rgb(123, 117, 117);
+padding-bottom: 2rem;
+padding-left: 10rem;
+padding-right: 0rem;
+
+
+}
+
+.octocat img[src="https://octodex.github.com/images/topguntocat.png"] {
+    
+    float: 1rem;
+    position: relative;
+    border: solid rgb(123, 117, 117) 1px;
+    width: 400px;
+    height: 400px;
+    padding-left: 0rem;
+padding-top: 0rem
+
+
+}
+
+.octocat img[src="https://octodex.github.com/images/carlostocat.gif"] {
+    float: 1rem;
+    position: relative;
+    border: solid rgb(119, 118, 118) 1px;
+    width: 400px;
+    height: 400px;
+    padding-left: 0rem;
+
+
+
+}
+
+.octocat  {
+    display: inline-block;
+    margin: 0 40px 0 0;
+    
+}
+
+.authors img {
+    position: relative;
+   float: right;
+    height: 25px;
+    width: 25px;
+    margin: 0rem;
+    list-style: none;
+ 
+    
+}
+
+.image-caption{
+    text-align: center;
+    position: relative;
+    float: left 4rem;
+   
+   
+}
+
+ .image-number{
+   position: absolute;
+}
+
+.authors li {
+    list-style: none;
+    position: relative;
+    text-align: right;
+    margin-top: 0rem;
+}
